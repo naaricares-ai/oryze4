@@ -37,11 +37,11 @@ const footerLinks = {
 };
 
 const socialLinks = [
-  { icon: XIcon, href: 'https://x.com/nprathamesh519', label: 'X / Twitter' },
-  { icon: Linkedin, href: 'https://www.linkedin.com/in/prathamesh-nalawade-994740262', label: 'LinkedIn' },
-  { icon: Youtube, href: 'https://youtube.com/@prathamesh150', label: 'YouTube' },
-  { icon: Github, href: 'https://github.com/Prathameshn2003', label: 'GitHub' },
-  { icon: Instagram, href: 'https://www.instagram.com/prathamesh_vloger1212', label: 'Instagram' },
+  { icon: XIcon, href: 'https://x.com/oryzetech', label: 'X / Twitter' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/oryzetech-undefined-9b2949401/', label: 'LinkedIn' },
+  { icon: Youtube, href: 'https://www.youtube.com/channel/UCAh9WA9q_izyvfiNqB_BpHg', label: 'YouTube' },
+  { icon: Github, href: 'https://github.com/Oyzetech', label: 'GitHub' },
+  { icon: Instagram, href: 'https://www.instagram.com/info.oryzetech108?igsh=a3M2djZvaXI5bjJ5', label: 'Instagram' },
 ];
 
 export default function Footer() {
