@@ -83,8 +83,8 @@ const defaultData: SiteData = {
     ctaPrimary: 'Explore Solutions',
     ctaSecondary: 'Watch Demo',
     stats: [
-      { value: '500+', label: 'Schools' },
-      { value: '50K+', label: 'Students' },
+      { value: '15+', label: 'Schools' },
+      { value: '10K+', label: 'Students' },
       { value: '99%', label: 'Satisfaction' },
     ],
   },
