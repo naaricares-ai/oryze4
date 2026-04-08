@@ -11,10 +11,10 @@ const EMAILJS_TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
 const EMAILJS_PUBLIC_KEY  = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
 
 // ─── WhatsApp number (with country code, no + or spaces) ─────────────────────
-const ADMIN_WHATSAPP = '918446692426';
+const ADMIN_WHATSAPP = '919623585567';
 
 // ─── Email that receives submissions ─────────────────────────────────────────
-const ADMIN_EMAIL = 'nprathamesh519@gmail.com';
+const ADMIN_EMAIL = 'info.oryzetech108@gmail.com';
 
 export default function Contact() {
   const { data } = useStore();

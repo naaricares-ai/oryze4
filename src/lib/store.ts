@@ -174,7 +174,7 @@ const defaultData: SiteData = {
     subtitle: 'Let\'s discuss how ORYZE can bring cutting-edge technology to your institution.',
     location: ' Near Vp College of Engineering,Baramati',
     email: 'info.oryzetech108@gmail.com',
-    phone: '8446692426',
+    phone: '9623585567',
   },
   partnerSchools: ['MIT Academy', 'Stanford Prep', 'Berkeley STEM', 'Caltech Institute', 'Harvard Prep'],
 };
